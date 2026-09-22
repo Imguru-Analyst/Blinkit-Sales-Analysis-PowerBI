@@ -8,20 +8,18 @@ This project analyzes Blinkit sales data using Power BI to understand sales perf
 
 - Power BI
 - Power Query
-- DAX
-- Excel
+
 
 ## Key KPIs
 
 - Total Sales
-- Average Sales
-- Number of Items
+- Total Orders
+- Top Selling Product
 - Average Rating
 
 ## Analysis Performed
 
 - Sales by product category
-- Sales by outlet type
 - Sales by outlet location
 - Monthly sales trends
 - Product-level analysis
@@ -54,6 +52,13 @@ This project analyzes Blinkit sales data using Power BI to understand sales perf
 - **Product-Level Performance:** Among the displayed top 10 products, **Detergent 1kg** had the highest quantity/value shown (219), followed by **Shampoo 180ml (214)** and **Face Wash (198)**.
 
 
+## DAX Measures
+
+- Total Sales
+- Total Orders
+- Average Rating
+
+  
 ## Project Files
 
 - `Blinkit Dashboard.pbix` - Power BI dashboard
