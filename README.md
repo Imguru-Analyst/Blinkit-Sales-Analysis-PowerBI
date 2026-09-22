@@ -18,7 +18,23 @@ This project analyzes Blinkit sales data using Power BI to understand sales perf
 - Number of Items
 - Average Rating
 
+## Analysis Performed
 
+- Sales by product category
+- Sales by outlet type
+- Sales by outlet location
+- Monthly sales trends
+- Product-level analysis
+
+## Skills Demonstrated
+
+- ETL (Extract, Transform, Load)
+- Data Cleaning
+- DAX
+- Data Visualization
+- Dashboard Development
+
+  
 ## Key Insights
 
 - **Overall Performance:** The dashboard records total sales of approximately **1.36M** across around **5K orders**, with an average customer rating of **4.25**.
@@ -37,18 +53,8 @@ This project analyzes Blinkit sales data using Power BI to understand sales perf
 
 - **Product-Level Performance:** Among the displayed top 10 products, **Detergent 1kg** had the highest quantity/value shown (219), followed by **Shampoo 180ml (214)** and **Face Wash (198)**.
 
-## Analysis Performed
 
-- Sales by product category
-- Sales by outlet type
-- Sales by outlet location
-- Monthly sales trends
-- Product-level analysis
+## Project Files
 
-## Skills Demonstrated
-
-- ETL (Extract, Transform, Load)
-- Data Cleaning
-- DAX
-- Data Visualization
-- Dashboard Development
+- `Blinkit Dashboard.pbix` - Power BI dashboard
+- `Blinkit Dashboard.png` - Dashboard preview
