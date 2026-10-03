@@ -4,6 +4,9 @@
 
 This project analyzes Blinkit sales data using Power BI to understand sales performance, products, categories, outlets, and monthly trends.
 
+## Project Domain
+- E-Commerce/Quick Commerce
+
 ## Tools Used
 
 - Power BI
